@@ -1,6 +1,6 @@
 - 👋 Hi, I’m michael obi
 - 👀 I’m interested in like-mind relating to devops and software development
-- 🌱 I’m currently learning devops and cloud engineering
+- 🌱 I’m currently working and training young lads on devops and cloud engineering
 - 💞️ I’m looking to collaborate on cloud related projects in aws and devops working tools
 - 📫 How to reach me obike007@yahoo.com or my git account
 
